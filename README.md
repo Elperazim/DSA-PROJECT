@@ -32,10 +32,12 @@ We see that across all branches and dpartments, there is a pay gap of 3.5% in fa
 
 A new regulation mandating companies to pay its staff a minimum of $90,000 was enacted and I was asked to check if the company meets this criteria.
 
-4.From the analysis, it is evident that Palmoria Group does not meet this criteria as only 292 staff recieve the minimum salary (and above) out of a total staff strength of 946, while 654 staff are paid below. Regionally, Kaduna (250) has the highest number of staff that are paid below the minimum salary, followed by Abuja(238), and Lastly, Lagos with 166. 
+4. From the analysis, it is evident that Palmoria Group does not meet this criteria as **only 292 staff recieve the minimum salary (and above) out of a total staff strength of 946, while 654 staff are paid below.** Regionally, Kaduna (250) has the highest number of staff that are paid below the minimum salary, followed by Abuja(238), and Lastly, Lagos with 166. https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%204.png
 
-Futhermore, Plamora Group has asked that i calculate the amount of bonus to be paid to individual employee, the total amount to be paid to individual employees (salary + bonus), and total amount to be paid out per region and company-wide.
+**Rcommendation:** Thye management should comply eith this directive and ensure that eeryone, regardles of their gender is included in the new directive. This will enable a healthy work environment.
 
-From the analysis carried out, we see the amount of bonus to be paid to individual employee, we also see the that the total amount to be paid (salary + bonus) is $71,922,949.3, while the the total amount to be paid per rigion is $1.03m. State wise, Kaduna has the highest amount of bonus with $825,000 followed by Abuja with $801,000 and Lagos with $572,000.
-The gender with the highest bonus pay in Kaduna is the male gender, in Abuja, the female gender dominates, same as Lagos state.
+Futhermore, Plamoria Group has asked that I **calculate the amount of bonus to be paid to individual employee, the total amount to be paid to individual employees (salary + bonus), and total amount to be paid out per region and company-wide.**
+
+5. From the analysis carried out, we see the amount of bonus to be paid to individual employee, we also see the that the total amount to be paid (salary + bonus) is $71,922,949.3, while the the total amount to be paid per rigion is $1.03m. State wise, Kaduna has the highest amount of bonus with $825,000 followed by Abuja with $801,000 and Lagos with $572,000.
+The gender with the highest bonus pay in Kaduna is the male gender, in Abuja, the female gender dominates, same as Lagos state. 
 
