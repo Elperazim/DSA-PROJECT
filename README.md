@@ -39,5 +39,5 @@ A new regulation mandating companies to pay its staff a minimum of $90,000 was e
 Futhermore, Plamoria Group has asked that I **calculate the amount of bonus to be paid to individual employee, the total amount to be paid to individual employees (salary + bonus), and total amount to be paid out per region and company-wide.**
 
 5. From the analysis carried out, we see the amount of bonus to be paid to individual employee, we also see the that the total amount to be paid (salary + bonus) is $71,922,949.3, while the the total amount to be paid per rigion is $1.03m. State wise, Kaduna has the highest amount of bonus with $825,000 followed by Abuja with $801,000 and Lagos with $572,000.
-The gender with the highest bonus pay in Kaduna is the male gender, in Abuja, the female gender dominates, same as Lagos state. 
+The gender with the highest bonus pay in Kaduna is the male gender, in Abuja, the female gender dominates, same as Lagos state. https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%205.png
 
