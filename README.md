@@ -16,13 +16,17 @@ Statistics from various department shows that the male gender dominate more than
 
 The next task is to:
 
-2. **Get information on ratings based on gender. From the representation:**
+**2. Get information on ratings based on gender. From the representation:**
 
 we see that the male staff once again dominate the ratings having the highest "Average" rating, however, the female staff have the highest "Good" rating. This shows that the female staff have better work and efficiency output than others.
 
 **Recommendation:** The management should organize trainings to help staff maximize efficiency and improve in the work output.
 
-The next task is get the salary sturcture and gender paygap, and we see that across all branches and dpartments, there is a pay gap of 3.5% in favor of the male gender.
+The next task is to:
+
+**3. Get the salary sturcture and gender paygap:**
+
+We see that across all branches and dpartments, there is a pay gap of 3.5% in favor of the male gender, this means that the male staff are paid more than the other gender staff. https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%203.png
 
 A new regulation mandating companies to pay its staff a minimum of $90,000 was enacted, and from the analysis, it is evident that Palmora Group does not meet this criteria as only 292 staff recieve the minimum salary (and above) out of a total staff strength of 946, while 654 staff are paid below. Regionally, Kaduna (250) has the highest number of staff that are paid below the minimum salary, followed by Abuja(238), and Lastly, Lagos with 166. 
 
