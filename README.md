@@ -12,8 +12,15 @@ Having gotten all required information, the first task is to;
 
 Statistics from various department shows that the male gender dominate more than the female gender and the unspecified gender. This is also visible in the number staff (gender) in the company as we see the male gender with a 49.1% population, closely followed by the female with 46.6% and the unspecified gender making up the rest of the population. (https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%201.png)
 
-**Recommendation** - The amangement consider balancing the gender distribution across all the departments so as to creat equal opprtunities and provide an environment where anyone regardless of their gender can thrive and grow
-The next task is to get information on ratings based on gender. From the representation, we see that 
+**Recommendation** - The management should consider creating balance in the gender distribution across all the departments so as to create equal opprtunities, hire people based on their merit, qualification, and experience, egardless of their gender and provide an environment where anyone regardless of their gender can thrive and grow.
+
+The next task is to:
+
+2. **Get information on ratings based on gender. From the representation:**
+
+we see that the male staff once again dominate the ratings having the highest "Average" rating, however, the female staff have the highest "Good" rating. This shows that the female staff have better work and efficiency output than others.
+
+**Recommendation:** The management should organize trainings to help staff maximize efficiency and improve in the work output.
 
 The next task is get the salary sturcture and gender paygap, and we see that across all branches and dpartments, there is a pay gap of 3.5% in favor of the male gender.
 
