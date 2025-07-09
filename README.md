@@ -8,7 +8,7 @@ After looking at the data set, it was clear that there were some inconsistencies
 
 Having gotten all required information, the first task is to;
 
-1. **Determine the gender distribution in various department and accross each state**:
+**1. Determine the gender distribution in various department and accross each state**:
 
 Statistics from various department shows that the male gender dominate more than the female gender and the unspecified gender. This is also visible in the number staff (gender) in the company as we see the male gender with a 49.1% population, closely followed by the female with 46.6% and the unspecified gender making up the rest of the population. (https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%201.png)
 
@@ -18,7 +18,7 @@ The next task is to:
 
 **2. Get information on ratings based on gender. From the representation:**
 
-we see that the male staff once again dominate the ratings having the highest "Average" rating, however, the female staff have the highest "Good" rating. This shows that the female staff have better work and efficiency output than others.
+We see that the male staff once again dominate the ratings having the highest "Average" rating, however, the female staff have the highest "Good" rating. This shows that the female staff have better work and efficiency output than others. https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%202.png
 
 **Recommendation:** The management should organize trainings to help staff maximize efficiency and improve in the work output.
 
