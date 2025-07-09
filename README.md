@@ -6,8 +6,13 @@ The name of the comany is PALMORIA GROUP - a manufacturing company with branches
 
 After looking at the data set, it was clear that there were some inconsistencies that needed to be corrected i.e taking out the NULL departments, and grouping the staff with undisclosed gender, getting additional information so that I can interprete the data more correctly.
 
-Having gotten all required information, the first task is to determine the gender distribution in various department and accross each state. And statistics from various department shows that the male gender dominate more than the female gender and the unspecified gender. This is also visible in the number staff (gender) in the company as we see the male gender with a 49.1% population, closely followed by the female with 46.6% and the unspecified gender making up the rest of the population.https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%201.png
+Having gotten all required information, the first task is to;
 
+1. **Determine the gender distribution in various department and accross each state**:
+
+Statistics from various department shows that the male gender dominate more than the female gender and the unspecified gender. This is also visible in the number staff (gender) in the company as we see the male gender with a 49.1% population, closely followed by the female with 46.6% and the unspecified gender making up the rest of the population. (https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%201.png)
+
+**Recommendation** - The amangement consider balancing the gender distribution across all the departments so as to creat equal opprtunities and provide an environment where anyone regardless of their gender can thrive and grow
 The next task is to get information on ratings based on gender. From the representation, we see that 
 
 The next task is get the salary sturcture and gender paygap, and we see that across all branches and dpartments, there is a pay gap of 3.5% in favor of the male gender.
