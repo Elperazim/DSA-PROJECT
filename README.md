@@ -28,7 +28,11 @@ The next task is to:
 
 We see that across all branches and dpartments, there is a pay gap of 3.5% in favor of the male gender, this means that the male staff are paid more than the other gender staff. https://github.com/Elperazim/DSA-PROJECT/blob/main/Slide%203.png
 
-A new regulation mandating companies to pay its staff a minimum of $90,000 was enacted, and from the analysis, it is evident that Palmora Group does not meet this criteria as only 292 staff recieve the minimum salary (and above) out of a total staff strength of 946, while 654 staff are paid below. Regionally, Kaduna (250) has the highest number of staff that are paid below the minimum salary, followed by Abuja(238), and Lastly, Lagos with 166. 
+**Recommendation:** The management should look into the salary structure and ungrade the payment structure to favour everyone regardless of gender.
+
+A new regulation mandating companies to pay its staff a minimum of $90,000 was enacted and I was asked to check if the company meets this criteria.
+
+4.From the analysis, it is evident that Palmoria Group does not meet this criteria as only 292 staff recieve the minimum salary (and above) out of a total staff strength of 946, while 654 staff are paid below. Regionally, Kaduna (250) has the highest number of staff that are paid below the minimum salary, followed by Abuja(238), and Lastly, Lagos with 166. 
 
 Futhermore, Plamora Group has asked that i calculate the amount of bonus to be paid to individual employee, the total amount to be paid to individual employees (salary + bonus), and total amount to be paid out per region and company-wide.
 
